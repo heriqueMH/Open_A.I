@@ -1,0 +1,6 @@
+{
+  "gitlens.proxy": {},
+  "liveServer.settings.proxy": {
+    "enable": true
+  }
+}
